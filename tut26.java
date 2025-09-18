@@ -10,3 +10,7 @@ public class tut26 {
         System.out.println(s1==s2);
     }
 }
+/* there are following two types of String 
+ * StringBuffer ()
+ * StringBuilder ()
+ */
