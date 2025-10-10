@@ -5,7 +5,7 @@ public class funtionfact {
         if (n<0){
             System.out.println(" invailid entry ");
         }
-        for(int i=n;i>=1;i--){
+        for(int i=1;i<=n;i++){
             factorial = factorial*i;
         }
         System.out.println("the factorial is : "+factorial);
